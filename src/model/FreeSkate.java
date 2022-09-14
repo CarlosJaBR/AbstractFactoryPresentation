@@ -1,6 +1,6 @@
 package model;
 /*
- * Patines de patinaje libre.
+ * Free stakes implement ISkate interface.
  * */
 public class FreeSkate implements ISkate{
 

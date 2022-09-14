@@ -1,6 +1,9 @@
 package ui;
 import model.*; 
 
+/*
+ * By: Carlos Bolaños.
+ * */
 public class Main {
 
 	public static void main(String[] args) {

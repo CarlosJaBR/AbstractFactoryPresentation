@@ -1,5 +1,9 @@
 package model;
 
+/*
+ * Client use AbstractFactory interface.
+ * */
+
 public class Client {
 
 	public AbstractFactory afX;

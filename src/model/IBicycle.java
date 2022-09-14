@@ -1,5 +1,8 @@
 package model;
 
+/*
+ * Interface with abstract idea of bicycles.
+ * */
 public interface IBicycle {
 
 	public String speedUpBicycle();

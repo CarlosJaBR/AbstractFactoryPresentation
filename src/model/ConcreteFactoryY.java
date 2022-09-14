@@ -1,5 +1,8 @@
 package model;
 
+/*
+ * ConcreteFactoryY use AbstractFactory interface
+ * */
 public class ConcreteFactoryY implements AbstractFactory{
 
 	public ConcreteFactoryY() {

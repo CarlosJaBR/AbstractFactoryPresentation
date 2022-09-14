@@ -1,5 +1,8 @@
 package model;
 
+/*
+ * Interface with abstract idea of skates.
+ * */
 public interface ISkate {
 
 	public String speedUpSkate();

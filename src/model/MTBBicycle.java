@@ -1,6 +1,6 @@
 package model;
 /*
- * Bicicleta de montaña
+ * MTB Bicycle implements IBiclycle interface
  * */
 public class MTBBicycle implements IBicycle{
 	

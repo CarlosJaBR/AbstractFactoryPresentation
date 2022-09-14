@@ -1,6 +1,6 @@
 package model;
 /*
- * Patines de patinaje artistico.
+ * Artistic stakes implement ISkate interface.
  * */
 public class ArtisticSkate implements ISkate{
 
